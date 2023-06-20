@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pragnesh107/Text-Utility/static/css/main.abd64e84.css",
-    "main.js": "/pragnesh107/Text-Utility/static/js/main.fd5b6ba8.js",
-    "static/js/787.28cb0dcd.chunk.js": "/pragnesh107/Text-Utility/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/pragnesh107/Text-Utility/index.html",
-    "main.abd64e84.css.map": "/pragnesh107/Text-Utility/static/css/main.abd64e84.css.map",
-    "main.fd5b6ba8.js.map": "/pragnesh107/Text-Utility/static/js/main.fd5b6ba8.js.map",
-    "787.28cb0dcd.chunk.js.map": "/pragnesh107/Text-Utility/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Text-Utility/static/css/main.abd64e84.css",
+    "main.js": "/Text-Utility/static/js/main.0a7c5444.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Text-Utility/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Text-Utility/index.html",
+    "main.abd64e84.css.map": "/Text-Utility/static/css/main.abd64e84.css.map",
+    "main.0a7c5444.js.map": "/Text-Utility/static/js/main.0a7c5444.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Text-Utility/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.fd5b6ba8.js"
+    "static/js/main.0a7c5444.js"
   ]
 }
